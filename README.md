@@ -24,3 +24,4 @@ sklearn
 9. Technical Communication: Ability to communicate technical information effectively to non-technical stakeholders through the use of Tableau and other visualization tools.
 ## Project Highlights
 ## Files
+Capstone_Topic_Approval_Form.pdf: This is task 1 of the capstone project. It outlines the project details and methods to be used. 
