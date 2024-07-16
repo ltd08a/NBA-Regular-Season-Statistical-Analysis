@@ -1,6 +1,6 @@
 # NBA-Regular-Season-Statistical-Analysis
 ## Project Description
-This project is a statistical analysis of NBA team stats from the 00 - 23 seasons. I will be using a supervised learning technique to determine which stats are correlated to winning in the regular season. This is a capstone project to finish my degree program.
+This project is a statistical analysis of NBA team stats from the 01 - 24 seasons. I will be using a supervised learning technique to determine which stats influence winning in the regular season. This is a capstone project to finish my degree program.
 ## Environment(s)
 Jupyter Notebook
 Tableau
@@ -24,4 +24,10 @@ sklearn
 9. Technical Communication: Ability to communicate technical information effectively to non-technical stakeholders through the use of Tableau and other visualization tools.
 ## Project Highlights
 ## Files
-Capstone_Topic_Approval_Form.pdf: This is task 1 of the capstone project. It outlines the project details and methods to be used. 
+Detailed_Outline: An overview of the project details.
+NBA_Analysis_Functions.ipynb: Notebook containing custom functions.
+NBA_Era1_Final.ipynb: Primary and secondary feature analysis from era 1 (2001-2012).
+NBA_Era2_Final.ipynb: Primary and secondary feature analysis from era 2 (2013-2024).
+NBA_Full_Final.ipynb: Primary and secondary feature analysis from the full dataset.
+Findings: Final results of the project.
+nba_team_stats_01_to_24.csv: Original dataset used for the project. 
