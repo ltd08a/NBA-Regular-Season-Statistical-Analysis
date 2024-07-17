@@ -14,7 +14,6 @@ Tableau
 Python
 
 ## Packages and Libraries
-
 pandas
 numpy
 matplotlib
