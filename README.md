@@ -1,27 +1,18 @@
 # NBA-Regular-Season-Statistical-Analysis
-
-## Project Description
-
+### Project Description
 This project is a statistical analysis of NBA team stats from the 01 - 24 seasons. I will be using a supervised learning technique to determine which stats influence winning in the regular season. This is a capstone project to finish my degree program.
-
-## Environment(s)
-
+### Environment(s)
 Jupyter Notebook
 Tableau
-
-## Language(s)
-
+### Language(s)
 Python
-
-## Packages and Libraries
+### Packages and Libraries
 pandas
 numpy
 matplotlib
 seaborn
 sklearn
-
-## Competencies
-
+### Competencies
 1. Data Analysis and Interpretation: I'll showcase my ability to analyze large datasets and interpret statistical data to draw conclusions about winning trends in NBA regular seasons.
 2. Programming Proficiency: Using Python for data manipulation and analysis, particularly with libraries such as pandas, numpy, matplotlib, seaborn, and sklearn.
 3. Machine Learning: Application of Lasso Regression to build a predictive model that identifies which statistics significantly impact game outcomes, demonstrating my skills in applying machine learning techniques.
@@ -31,11 +22,8 @@ sklearn
 7. Project Management: Managing the scope, timeline, and resources of a significant data analytics project, including adherence to a project timeline and meeting deliverables.
 8. Research and Documentation: Conducting thorough research and maintaining detailed documentation of my analysis process, which is essential for academic and professional settings.
 9. Technical Communication: Ability to communicate technical information effectively to non-technical stakeholders through the use of Tableau and other visualization tools.
-
-## Project Highlights
-
-## Files
-
+### Project Highlights
+### Files
 Detailed_Outline: An overview of the project details.
 NBA_Analysis_Functions.ipynb: Notebook containing custom functions.
 NBA_Era1_Final.ipynb: Primary and secondary feature analysis from era 1 (2001-2012).
